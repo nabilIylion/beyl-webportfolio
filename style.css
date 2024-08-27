@@ -366,7 +366,7 @@
   }
   
   /* Additional adjustments for very small screens (e.g., older phone models) */
-  @media (max-width: 480px) {
+  @media (max-width: 400px) {
     .nav-wrapper {
       padding: 12px;
     }
