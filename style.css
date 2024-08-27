@@ -235,8 +235,8 @@
     background-color: var(--bg-color);
  }
  
- img:hover {
-    /*transform: scale(1.1) rotate(-2deg);*/
+/* img:hover {
+    transform: scale(1.1) rotate(-2deg);*/
  }
  
  .scrollTop {
