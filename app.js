@@ -17,3 +17,6 @@ function scrollToTop(){
     window.scrollTo(0,0);
 }
 
+const scrollToBottom = (footer) => {
+    const element = document.getElementById(footer);
+}
