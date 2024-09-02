@@ -19,5 +19,5 @@ function scrollToTop(){
 
 const scrollToBottom = (footer) => {
     const element = document.getElementById(footer);
-    elemeny.scrollTop = element.scrollHeight;
+    element.scrollTop = element.scrollHeight;
 }
