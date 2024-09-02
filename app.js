@@ -16,3 +16,8 @@ hiddenElements.forEach((el) => observer.observe(el));
 function scrollToTop(){
     window.scrollTo(0,0);
 }
+
+const scrollToBottom = (footer) => {
+    const element = document.getElementById(footer);
+    elemeny.scrollTop = element.scrollHeight;
+}
